@@ -1,5 +1,5 @@
 #!/bin/sh
-wget https://raw.githubusercontent.com/jhowel22/R291/main/R281-R291_Unlocked_free_firmware.bin -O /tmp/firmware.bin
+wget https://raw.githubusercontent.com/bjchack/mysmart/main/bjc-pro/BJC_R281-R291_Unlock.bin -O /tmp/firmware.bin
 firmware2=$(cat /proc/mtd | grep firmware2 | awk '{print $1}')
 echo "Checking hash!"
 hash=$(md5sum /tmp/firmware.bin | awk '{print $1}')
