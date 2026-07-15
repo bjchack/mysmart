@@ -1,0 +1,7 @@
+iajfilajfk;lkxlkxlk
+DG[L;SLH;H.
+GL;GL;GLGJJE
+
+;;RGLSKGLSKL,
+G;S;LGP;LS;S.
+G.;LGLGLGGG
